@@ -1,7 +1,7 @@
 #!/bin/sh
 
 REPO=https://github.com/jleni/QRL.git
-REPO_BRANCH=experiments
+REPO_BRANCH=grpc_p2p
 #RUN pip install -i https://testpypi.python.org/pypi --extra-index-url https://pypi.python.org/simple/  --upgrade qrl
 
 # Common
